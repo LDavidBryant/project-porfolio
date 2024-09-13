@@ -1,0 +1,20 @@
+{
+  "name": "Recruit Form Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/base:awsebcli",
+  "forwardPorts": [
+    80
+  ],
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "html.format.enable": true,
+        "css.format.enable": true
+      },
+      "extensions": [
+        "formulahendry.auto-indent",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
+  "postCreateCommand": "npm install"
+}

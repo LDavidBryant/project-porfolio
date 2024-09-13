@@ -1,8 +1,0 @@
-{
-  "name": "Homepage Application Container",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "forwardPorts": [
-    80
-  ],
-  "postCreateCommand": "npm install"
-}
