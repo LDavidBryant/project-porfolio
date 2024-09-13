@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daytona Recruitment & Careers</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Daytona Recruitment & Careers</h1>
+    <form id="recruitmentForm">
+      <label for="fullname">Full Name:</label>
+      <input type="text" id="fullname" name="fullname" required>
+      <span id="fullnameError" class="error"></span>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+      <span id="emailError" class="error"></span>
+
+      <label for="phone">Phone Number:</label>
+      <input type="tel" id="phone" name="phone" required>
+      <span id="phoneError" class="error"></span>
+
+      <label for="position">Position Applied For:</label>
+      <select id="position" name="position" required>
+        <option value="">Select a position</option>
+        <option value="frontend">Frontend Developer</option>
+        <option value="backend">Backend Developer</option>
+        <option value="fullstack">Full Stack Developer</option>
+        <option value="devops">DevOps Engineer</option>
+        <option value="qa">QA Engineer</option>
+        <option value="uiux">UI/UX Designer</option>
+      </select>
+      <span id="positionError" class="error"></span>
+
+      <label for="experience">Years of Experience:</label>
+      <input type="number" id="experience" name="experience" min="0" max="50" required>
+      <span id="experienceError" class="error"></span>
+
+      <div id="skillsContainer">
+        <label for="skills">Key Skills (comma-separated):</label>
+        <textarea id="skills" name="skills" rows="4" required></textarea>
+        <span id="skillsError" class="error"></span>
+      </div>
+
+      <label for="portfolio">LinkedIn URL:</label>
+      <input type="url" id="portfolio" name="portfolio">
+      <span id="portfolioError" class="error"></span>
+
+      <label for="motivation">What motivates you to apply for this position?</label>
+      <select id="motivation" name="motivation" required>
+        <option value="">Select an option</option>
+        <option value="challenge">Seeking new challenges</option>
+        <option value="growth">Career growth opportunities</option>
+        <option value="culture">Company culture and values</option>
+        <option value="innovation">Innovative projects</option>
+        <option value="worklife">Work-life balance</option>
+        <option value="other">Other (please specify)</option>
+      </select>
+      <span id="motivationError" class="error"></span>
+
+      <div id="motivationContainer">
+        <label for="motivationOther">Please specify your motivation:</label>
+        <textarea id="motivationOther" name="motivationOther" rows="3"></textarea>
+        <span id="motivationOtherError" class="error"></span>
+      </div>
+
+      <label for="cv">Upload your CV (PDF only):</label>
+      <input type="file" id="cv" name="cv" accept=".pdf" required>
+      <span id="cvError" class="error"></span>
+
+      <input type="submit" value="Submit Application">
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
