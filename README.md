@@ -8,3 +8,6 @@ Daytona Recruitment Portal
 <br>
 <br>
 ![Example Image](https://drive.google.com/uc?id=<1WnG_KKCk-50uU5DlreaC_T7rzmW5gsHk>)
+<br>
+<br>
+The aim is that potential employees of Daytona can enter their recruitment information, work history and CV directly to Daytona for review. 
