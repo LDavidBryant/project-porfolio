@@ -15,6 +15,14 @@ Daytona Recruitment Portal
 
 The aim is that potential employees of Daytona can enter their recruitment information, work history and CV directly to Daytona for review. 
 <br>
+<br>
+Potential employees (Job Seekers) should be able to visit the Daytona.io website, easily locate the Careers Page (https://www.daytona.io/company/careers), locate the vacancy or opporunity they are interested in and be able to apply in a just a few easy and clear steps. 
+<br>
+<br>
+The application 'input form' should be concise and quick to complete - but importantly allow input of ALL valuable and useful information. 
+<br>
+<br>
+Once the application is submiited, the applicant should receive a notification to confirm and a colleague from our HR/Recruit Team should also receive this and be able to commence review. 
 <div align="center">
 
 ![Example Image](https://github.com/LDavidBryant/project-porfolio/blob/main/RecruitPortal.png?raw=true>)
