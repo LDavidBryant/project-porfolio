@@ -37,3 +37,6 @@ The project was started in Code Academy, learning the basics and deeper use of C
 <br>
 <br>
 ![Example Image](https://www.datocms-assets.com/103916/1718013622-abstract_new_11_dark.png?auto=compress%2Cformat&fit=crop&h=380&w=760>)
+<br>
+<br>
+Copyright © 2024 Daytona Platforms Inc. All rights Reserved. Built using Daytona.
