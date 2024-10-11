@@ -33,7 +33,7 @@ The aim is that potential employees of Daytona can enter their recruitment infor
 <br>
 <div align="center">
 
-![Example Image](https://github.com/LDavidBryant/project-porfolio/blob/main/RecruitPortal.png?raw=true>)
+![Example Image](https://github.com/LDavidBryant/project-porfolio/blob/main/CareersSitev2.png?raw=true>)
 <br>
 <br>
 <br>
