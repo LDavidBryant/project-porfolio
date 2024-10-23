@@ -1,0 +1,63 @@
+# Daytona Careers Landing Page
+
+### Created by: Sara & Luke
+
+---
+
+## Project Overview
+
+This repository contains the code and resources for the **Daytona Careers Landing Page**. The goal of this project is to design and develop a user-friendly, visually appealing, and informative landing page that attracts top talent to join our company.
+
+---
+
+## Idea Behind the Project
+
+As a growing company, Daytona understands the importance of having a dedicated platform where potential employees can easily explore career opportunities, learn about our work culture, and apply for open positions. 
+Our team, Sara and Luke, collaborated to bring this concept to life with a focus on the following key elements:
+
+### 1. **Showcasing Company Culture**
+   - We believe that the culture at Daytona is one of our biggest strengths. The landing page highlights this through engaging visuals, testimonials, and insights into daily life at the company. 
+   - Our goal is to give potential candidates a genuine sense of what it's like to be a part of Daytona.
+
+### 2. **Clear and Simple Navigation**
+   - The page is designed to be intuitive and easy to navigate. Users can quickly find available job listings, filter them by department, and read detailed descriptions for each role.
+   - Additionally, we have included a dedicated section explaining our hiring process, so candidates know what to expect at every stage.
+
+### 3. **Responsive and Accessible Design**
+   - Accessibility and mobile responsiveness are core principles we incorporated throughout the design. We wanted to ensure that users on any device or with any level of accessibility need can comfortably explore the page and apply for roles.
+
+### 4. **Call-to-Action (CTA) Focus**
+   - Throughout the landing page, we’ve strategically placed clear CTAs to encourage users to take action, whether it’s applying for a position, subscribing to job alerts, or learning more about life at Daytona.
+   - This is crucial in converting page visitors into applicants.
+
+### 5. **Optimized for Search and Discovery**
+   - The landing page is SEO-optimized to improve visibility in search engines, ensuring that potential candidates can easily discover Daytona’s career opportunities through organic search.
+
+---
+
+## Features
+
+- **Join Our Team:** A simple and straightforward application process allowing candidates to submit their information and resume directly through the page.
+- **Daytona Values:** An interactive section explaining our company values and what we look for in candidates.
+- **Job Listings:** A dynamically updated list of current job openings.
+- **Recruitment Portal:** A form for candidates to easily apply for the open job positions.
+- **Newsletter Subscription:** A form for users to subscribe to job alerts and receive updates about new opportunities.
+
+---
+
+## Tech Stack
+
+- **Frontend:** HTML, CSS
+- **Backend:** Node.js
+- **Deployment:** Daytona
+- **Version Control:** Git
+
+---
+
+## Getting Started
+
+To get started with this project, follow the instructions below:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/recruitment-portal.git
