@@ -29,23 +29,22 @@ The aim is that potential employees of Daytona can enter their recruitment infor
 <br>
 <br>
 <p align="left">
-Features & Points: 
+##Features & Points:
 <br>
 <br>
-<br>
-Information on 'why you should work with Daytona'
-<br>
-<br>
-What is Daytona? 
++ Information on 'why you should work with Daytona'
 <br>
 <br>
-What Positions are Avaiable?
++ What is Daytona? 
 <br>
 <br>
-Benefits of working with Daytona
++ What Positions are Avaiable?
 <br>
 <br>
-Application Input Form
++ Benefits of working with Daytona
+<br>
+<br>
++ Application Input Form
 <div align="left">
 
 (The design below is a potential suggestion for the input form)
