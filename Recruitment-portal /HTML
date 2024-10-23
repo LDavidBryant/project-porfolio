@@ -1,0 +1,153 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daytona - Careers & About</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <div class="nav">
+    <div class="container">
+      <ul>
+        <li>Home</li>
+        <li>Register</li>
+        <li>Schedule</li>
+        <li>About</li>
+        <li>Careers</li>
+        <li>Contact</li>
+      </ul>
+    </div>
+  </div>
+
+  <header class="header">
+    <div class="header-content">
+      <img class="logo" src="https://pbs.twimg.com/profile_images/1764766523770494977/NwdtuoVp_400x400.jpg" alt="Daytona Logo">
+      <h1 class="title">Careers at Daytona</h1>
+    </div>
+  </header>
+
+  <section class="careers-overview">
+    <h2>Join Our Team</h2>
+    <p>At Daytona, we are driven by the vision of accelerating developer velocity and redefining the future of development environments. We create a streamlined, scalable, and secure workflow by eliminating operational bottlenecks and propelling innovation.</p>
+    <p>If you're passionate about making a significant impact within the developer community and are eager to thrive in a dynamic and collaborative setting, we invite you to explore our open positions.</p>
+  </section>
+
+  <section class="why-work">
+    <h2>Why Work with Us?</h2>
+    <p>Become part of an environment where each member contributes to our collective success. We share a mission to deliver a transformative development experience. When you join Daytona, you join a journey to:</p>
+    <ul>
+      <li>Develop groundbreaking technologies that empower software professionals.</li>
+      <li>Contribute to a platform that improves the daily lives of developers.</li>
+      <li>Collaborate with a team of experts passionate about their crafts.</li>
+      <li>Engage with an inclusive culture that values every voice.</li>
+    </ul>
+  </section>
+
+  <section class="our-culture">
+    <h2>Our Culture</h2>
+    <p>Daytona's culture revolves around our core values:</p>
+    <ul>
+      <li><strong>Empathy and Respect:</strong> Understanding and valuing the perspective of every team member.</li>
+      <li><strong>Continuous Learning:</strong> Fostering a culture that encourages personal and professional growth.</li>
+      <li><strong>Innovation:</strong> Championing creativity and new ideas within an ever-evolving industry.</li>
+      <li><strong>Accountability:</strong> Taking initiative and ownership of our work and its impact on our users.</li>
+    </ul>
+  </section>
+
+  <section class="career-development">
+    <h2>Career Development</h2>
+    <p>We are committed to the development of our team:</p>
+    <ul>
+      <li><strong>Advancement Opportunities:</strong> At Daytona, merit leads the way in career progression.</li>
+      <li><strong>Learning Resources:</strong> Access to courses, conferences, and workshops to aid your growth.</li>
+      <li><strong>Mentorship:</strong> Collaborate with and learn from industry leaders.</li>
+    </ul>
+  </section>
+
+  <section class="why-join">
+    <h2>Why Join Daytona?</h2>
+    <p>We're not just investing in innovation; we're investing in you. At Daytona, we recognize the value each team member brings and offer benefits designed to support both your professional and personal life:</p>
+    <ul>
+      <li><strong>We're Investing in You:</strong> Commitment to your professional growth through continuous learning opportunities, advancement potential, and a culture that values your unique contributions.</li>
+      <li><strong>Remote Flexibility:</strong> Embrace the ability to work from where you are most productive. Whether from home, a café, or a beach, our remote work options can adapt to your lifestyle.</li>
+      <li><strong>Flexible PTO:</strong> Take the time you need, when you need it. Our flexible paid time off policy encourages you to rest, recharge, and maintain a balanced life.</li>
+      <li><strong>Paid Parental Leave:</strong> Supporting new parents is important to us. Our comprehensive parental leave policy ensures you can focus on your family when it's most important.</li>
+    </ul>
+  </section>
+
+  <section class="job-openings">
+    <h2>Open Positions</h2>
+    <div class="job-listing">
+      <h3>Principal Software Engineer</h3>
+      <p>Lead the development of Daytona’s cutting-edge platform and mentor a team of passionate developers.</p>
+      <button class="apply-btn">Learn more</button>
+    </div>
+
+    <div class="job-listing">
+      <h3>Core Designer</h3>
+      <p>Join our design team to create intuitive, user-friendly interfaces that enhance the developer experience.</p>
+      <button class="apply-btn">Learn more</button>
+    </div>
+
+    <div class="job-listing">
+      <h3>Product Lead</h3>
+      <p>Drive the vision and strategy for Daytona's products, ensuring they meet the needs of our developer community.</p>
+      <button class="apply-btn">Learn more</button>
+    </div>
+  </section>
+
+  <div class="container recruitment-form">
+    <h2>Apply Now</h2>
+    <form id="recruitmentForm">
+      <label for="fullname">Full Name:</label>
+      <input type="text" id="fullname" name="fullname" required>
+      <span id="fullnameError" class="error"></span>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+      <span id="emailError" class="error"></span>
+
+      <label for="phone">Phone Number:</label>
+      <input type="tel" id="phone" name="phone" required>
+      <span id="phoneError" class="error"></span>
+
+      <label for="position">Position Applied For:</label>
+      <select id="position" name="position" required>
+        <option value="">Select a position</option>
+        <option value="principal">Principal Software Engineer</option>
+        <option value="designer">Core Designer</option>
+        <option value="product-lead">Product Lead</option>
+      </select>
+      <span id="positionError" class="error"></span>
+
+      <label for="experience">Years of Experience:</label>
+      <input type="number" id="experience" name="experience" min="0" max="50" required>
+      <span id="experienceError" class="error"></span>
+
+      <label for="cv">Upload your CV (PDF only):</label>
+      <input type="file" id="cv" name="cv" accept=".pdf" required>
+      <span id="cvError" class="error"></span>
+
+      <input type="submit" value="Submit Application">
+    </form>
+  </div>
+
+  <footer>
+    <img src="https://www.datocms-assets.com/103916/1698072743-abstract-illo-1.png?auto=compress%2Cformat&fit=crop&h=1260&w=2520" alt="Footer Image">
+    <p>Daytona is the enterprise-grade Codespaces alternative for managing self-hosted, secure and standardized development environments.</p>
+  
+    <form action="#" method="post" class="footer-form">
+      <label for="footer-email">Join our waitlist:</label>
+      <input type="email" id="footer-email" name="footer-email" placeholder="Your email.." required>
+      <input type="submit" value="Subscribe">
+    </form>
+</footer>
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
+
