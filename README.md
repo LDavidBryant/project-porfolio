@@ -71,3 +71,6 @@ The project was started in Code Academy, learning the basics and deeper use of C
 <br>
 <br>
 Copyright © 2024 Daytona Platforms Inc. All rights Reserved. Built using Daytona.
+<br>
+<br>
+![Careers Site for Daytona](https://drive.google.com/file/d/1HNeuSAhFnzAHTllY_TQd7BujSStU8QoT/view?usp=sharing)
