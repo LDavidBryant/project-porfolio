@@ -1,0 +1,209 @@
+body {
+  background-color: #000;
+  color: white;
+  font-family: 'Inter', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+  background-color: #1a1a1a;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 20px; 
+}
+
+ul {
+  list-style: disc inside;
+  margin-bottom: 20px;
+}
+
+.nav {
+  background-color: #000;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  border-bottom: 2px solid #444;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  gap: 30px; 
+  padding: 0; 
+  margin: 0; 
+}
+
+.nav ul li {
+  cursor: pointer;
+  color: white;
+  transition: color 0.3s ease;
+  padding: 20px; 
+}
+
+.nav ul li:hover {
+  color: #4CAF50;
+}
+
+.header {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  margin: 40px 0; 
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 80px;
+  margin-right: 20px; 
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #4CAF50;
+}
+
+.careers-overview, 
+.why-work, 
+.our-culture, 
+.career-development, 
+.why-join, 
+.job-openings {
+  padding: 20px 0; 
+}
+
+h2 {
+  color: white;
+  font-weight: bold;
+  margin: 20px 0; 
+}
+
+ul li {
+  margin-bottom: 10px; 
+}
+
+.job-listing {
+  background-color: #111;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px; 
+}
+
+.job-listing h3 {
+  color: white;
+  margin-bottom: 10px; 
+}
+
+.careers-overview {
+  margin-bottom: 40px; 
+}
+
+.apply-btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.apply-btn:hover {
+  background-color: #45a049;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+label {
+  color: white;
+}
+
+input, select {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #888;
+  background-color: #1a1a1a;
+  color: white;
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.container.recruitment-form {
+  margin-bottom: 40px; 
+}
+
+
+footer {
+  background-image: url('https://www.datocms-assets.com/103916/1698072743-abstract-illo-1.png?auto=compress%2Cformat&fit=crop&h=1260&w=2520');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 20px 0;
+  text-align: center; 
+}
+
+footer img {
+  display: none; 
+}
+
+.footer-form {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  margin-top: 20px; 
+}
+
+footer form label {
+  margin-right: 10px; 
+}
+
+footer form input[type="email"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 10px; 
+  width: 200px; 
+}
+
+footer form input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+footer form input[type="submit"]:hover {
+  background-color: #45a049;
+}
