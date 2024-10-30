@@ -38,7 +38,7 @@ The aim is that potential employees of Daytona can enter their recruitment infor
 + What is Daytona? 
 <br>
 <br>
-+ What Positions are Avaiable?
++ What Positions are Available?
 <br>
 <br>
 + Benefits of working with Daytona
@@ -62,7 +62,7 @@ Potential employees (Job Seekers) should be able to visit the Daytona.io website
 The application 'input form' should be concise and quick to complete - but importantly allow input of ALL valuable and useful information. 
 <br>
 <br>
-Once the application is submiited, the applicant should receive a notification to confirm and a colleague from our HR/Recruit Team should also receive this and be able to commence review. 
+Once the application is submitted, the applicant should receive a notification to confirm and a colleague from our HR/Recruit Team should also receive this and be able to commence review. 
 The project was started in Code Academy, learning the basics and deeper use of CSS and HTML.  We also investigated the use of API connections.
 <br>
 <br>
