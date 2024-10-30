@@ -51,8 +51,8 @@ The aim is that potential employees of Daytona can enter their recruitment infor
 <br>
 <br>
 <div align="center">
-
-![Careerswebsite1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/98baf3f0-0985-4a3d-969f-1f5e53f0c7e7)
+    
+<img src="https://github.com/user-attachments/assets/98baf3f0-0985-4a3d-969f-1f5e53f0c7e7" width="850" height="550"/>
 
 <br>
 <br>
