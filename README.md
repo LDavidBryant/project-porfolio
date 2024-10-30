@@ -57,8 +57,7 @@ The aim is that potential employees of Daytona can enter their recruitment infor
 <br>
 <br>
 <br>
-Potential employees (Job Seekers) should be able to visit the Daytona.io website, easily locate the Careers Page (https://www.daytona.io/company/careers), locate the vacancy or opporunity they are interested in and be able to apply in a just a few easy and clear steps. ![Uploading Careerswebsite1-ezgif.com-video-to-gif-converter.gif…]()
-
+Potential employees (Job Seekers) should be able to visit the Daytona.io website, easily locate the Careers Page (https://www.daytona.io/company/careers), locate the vacancy or opporunity they are interested in and be able to apply in a just a few easy and clear steps.
 <br>
 <br>
 The application 'input form' should be concise and quick to complete - but importantly allow input of ALL valuable and useful information. 
@@ -68,10 +67,9 @@ Once the application is submitted, the applicant should receive a notification t
 The project was started in Code Academy, learning the basics and deeper use of CSS and HTML.  We also investigated the use of API connections.
 <br>
 <br>
-![Example Image](https://www.datocms-assets.com/103916/1718013622-abstract_new_11_dark.png?auto=compress%2Cformat&fit=crop&h=380&w=760>)
+<img width="751" alt="Screenshot 2024-10-30 at 09 45 52" src="https://github.com/user-attachments/assets/b2e04f65-a3ac-43b5-9ce7-12656df9a3a6">
 <br>
 <br>
 Copyright © 2024 Daytona Platforms Inc. All rights Reserved. Built using Daytona.
 <br>
 <br>
-![Careers Site for Daytona]([https://drive.google.com/file/d/1HNeuSAhFnzAHTllY_TQd7BujSStU8QoT/view?usp=sharing](https://drive.google.com/file/d/15QSmHh0g-xsxQRMAO-k5FJ38tUQuugLi/view?usp=drive_link))
