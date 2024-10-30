@@ -52,11 +52,13 @@ The aim is that potential employees of Daytona can enter their recruitment infor
 <br>
 <div align="center">
 
-![Example Image](https://github.com/LDavidBryant/project-porfolio/blob/main/CareersSitev2.png?raw=true>)
+![Careerswebsite1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/98baf3f0-0985-4a3d-969f-1f5e53f0c7e7)
+
 <br>
 <br>
 <br>
-Potential employees (Job Seekers) should be able to visit the Daytona.io website, easily locate the Careers Page (https://www.daytona.io/company/careers), locate the vacancy or opporunity they are interested in and be able to apply in a just a few easy and clear steps. 
+Potential employees (Job Seekers) should be able to visit the Daytona.io website, easily locate the Careers Page (https://www.daytona.io/company/careers), locate the vacancy or opporunity they are interested in and be able to apply in a just a few easy and clear steps. ![Uploading Careerswebsite1-ezgif.com-video-to-gif-converter.gif…]()
+
 <br>
 <br>
 The application 'input form' should be concise and quick to complete - but importantly allow input of ALL valuable and useful information. 
